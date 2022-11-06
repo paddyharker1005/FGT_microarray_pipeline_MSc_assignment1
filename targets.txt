@@ -1,0 +1,7 @@
+Name	Filename	Colour	MouseName
+DNMTs-Tg_min.1	GSM3605059_AK_minus-1_Mouse430_2_.CEL.gz	yellow	DNMT-Tg_5
+DNMTs-Tg_min.2	GSM3605060_AK_minus-2_Mouse430_2_.CEL.gz	yellow	DNMT-Tg_6
+DNMTs-Tg_plus.1	GSM3605061_AK_plus-1_Mouse430_2_.CEL.gz	yellow	DNMT-Tg_1
+WT.1	GSM3605062_Ctrl-1_Mouse430_2_.CEL.gz	red	WT_1
+WT.2	GSM3605063_Ctrl-2_Mouse430_2_.CEL.gz	red	WT_4
+WT.3	GSM3605064_Ctrl-3_Mouse430_2_.CEL.gz	red	WT_6
